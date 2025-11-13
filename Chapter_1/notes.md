@@ -1,2 +1,111 @@
 <h1>Introduction</h1>
 Machine Learning
+
+Alright — here are **50 questions** that genuinely test and deepen your understanding of **Level 1 Machine Learning** concepts:
+(models, parameters, intercept, slope, algorithms, training, data, prediction, etc.)
+
+These questions cover:
+
+* conceptual understanding
+* common misconceptions
+* practical intuition
+* ML vocabulary
+* model behavior
+
+Perfect for revision and mastery.
+
+---
+
+# ✅ **50 QUESTIONS FROM LEVEL 1 MACHINE LEARNING**
+
+### **Basics of ML**
+
+1. What is the difference between a model and an algorithm in ML?
+2. Why does ML need training data?
+3. What does it mean when we say a model “learns a pattern”?
+4. What is the main goal of machine learning?
+5. Why can’t ML rely on if-else rules for everything?
+
+### **Model + Parameters**
+
+6. What are parameters in an ML model?
+7. Why do models need parameters?
+8. What happens if a model has no parameters?
+9. Are parameters fixed or learned during training?
+10. What does “internal settings of a model” mean?
+
+### **Intercept**
+
+11. What is the intercept in a simple ML model?
+12. Why is the intercept rarely zero in real-world problems?
+13. Does the intercept represent the “start” of a line? Why/why not?
+14. How does a model decide the value of the intercept?
+15. Why is the intercept important for making realistic predictions?
+
+### **Slope / Feature Effect**
+
+16. What does the slope represent in a linear model?
+17. How does slope affect prediction changes?
+18. Can a model have multiple slopes? In what situations?
+19. If slope is zero, what does the model predict?
+20. What does a negative slope mean?
+
+### **Learning Algorithm**
+
+21. What is the purpose of a learning algorithm?
+22. Do we create learning algorithms in normal ML work?
+23. Name some common learning algorithms (non-DL).
+24. What does it mean that the algorithm “adjusts parameters”?
+25. Why can a model not adjust parameters by itself?
+
+### **Training**
+
+26. What is training in machine learning?
+27. Why does training require repetition?
+28. What happens if training is too short?
+29. What happens if training is too long?
+30. Why does training reduce prediction errors?
+
+### **Predictions**
+
+31. What does it mean to make a prediction?
+32. Why must models generalize to unseen data?
+33. What happens if a model memorizes training data?
+34. What kind of prediction errors might a simple model make?
+35. How do parameters influence prediction accuracy?
+
+### **Real-World Understanding**
+
+36. Give an example of a baseline value in real life (intercept).
+37. Why do relationships in real life rarely pass through (0,0)?
+38. Why does a taxi fare model need an intercept?
+39. Why does predicting salary need an intercept?
+40. Why does predicting room rent need an intercept?
+
+### **ML vs Normal Programming**
+
+41. How is ML different from traditional rule-based programming?
+42. Why do ML systems not need manually coded rules?
+43. In what case would rule-based logic still be better than ML?
+44. Why does ML fail if the training data is wrong?
+45. Can ML replace all traditional coding? Why/why not?
+
+### **Misconceptions & Clarifications**
+
+46. Why is intercept not the “starting point” of the line?
+47. Why is input = 0 NOT equal to output = 0 in ML?
+48. Why do beginners confuse model parameters with algorithm parameters?
+49. Why is it important to distinguish model vs algorithm?
+50. What happens if a model has an intercept but no slope?
+
+---
+
+If you want, I can also generate:
+
+* **answers** to all 50 (short or detailed)
+* **50 more advanced questions (Level 2)**
+* **MCQs**
+* **visual explanations**
+* **practical coding exercises**
+
+Just tell me.
